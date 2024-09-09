@@ -1,4 +1,4 @@
-<h1 align="left">🧙‍♂️ Welcome to my portfólio</h1>
+<h1 align="left">🧙‍♂️ Welcome to my portfólio.</h1>
 
 ###
 
