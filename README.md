@@ -1,8 +1,8 @@
-<h1 align="left">🧙‍♂️ Welcome to My Coding Universe!</h1>
+<h1 align="left">🧙‍♂️ Welcome to my portfólio</h1>
 
 ###
 
-<p align="left">Hello! ✨ I’m Erick Hiroshi, a 17-year-old developer from Brazil with 5 years in game and application development.</p>
+<p align="left">Hello! I’m Erick Hiroshi, a 17-year-old developer from Brazil with 5 years in game and application development.</p>
 
 ###
 
