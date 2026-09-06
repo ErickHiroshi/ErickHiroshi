@@ -25,8 +25,7 @@
   <img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo"  />
   <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/luau-lang/luau@master/docs/assets/luau.svg" height="40" alt="Luau logo" />
-<img width="12" />
+<img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Luau" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"  />
   <img width="12" />
 </div>
